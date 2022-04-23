@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 715e4204c64e9844e9912d447725e30d, type: 3}
+  m_Name: Fireball
+  m_EditorClassIdentifier: 
+  itemID: 469c3ff5-0673-4483-be76-19eb385b8b66
+  displayName: Fireball
+  description: Mario would be proud.
+  icon: {fileID: 21300000, guid: aba0f700d91d4fc4fa8c724899ab04ab, type: 3}
+  pickup: {fileID: 8848397337494307312, guid: 55a0d03255599984b87e7b97c0ad3ce7, type: 3}
+  stackable: 0
+  allowedEquipLocation: 5
+  equippedPrefab: {fileID: 0}
+  animatorOverride: {fileID: 22100000, guid: 2223d0f4848412245a41d0d50e87dd7d, type: 2}
+  damage: 5
+  percentageBonus: 0
+  range: 40
+  isRightHanded: 0
+  projectile: {fileID: 5003996213454009834, guid: f429d9a623f2e6840b6f6d4219bfc895, type: 3}

@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 715e4204c64e9844e9912d447725e30d, type: 3}
+  m_Name: Unarmed
+  m_EditorClassIdentifier: 
+  itemID: d98936fd-2cee-4702-9c45-0fab0b9eccac
+  displayName: Unarmed
+  description: How are you reading this?!?
+  icon: {fileID: 21300000, guid: f8078c2bb5ee88d4a9472f76e501e0f3, type: 3}
+  pickup: {fileID: 0}
+  stackable: 0
+  allowedEquipLocation: 5
+  equippedPrefab: {fileID: 5550711490198548872, guid: be04b2d6f8c9b80499574d966117cd14, type: 3}
+  animatorOverride: {fileID: 0}
+  damage: 3
+  percentageBonus: 0
+  range: 2
+  isRightHanded: 1
+  projectile: {fileID: 0}
